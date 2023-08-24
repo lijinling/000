@@ -1,0 +1,6 @@
+MainPackage=C:\app\2\KillianYY\Screen Taskbar Tools\WapProjTemplate1\bin\x64\Release\Upload\WapProjTemplate1_3.5.2.0_x64.msix
+SymbolPackage=C:\app\2\KillianYY\Screen Taskbar Tools\WapProjTemplate1\bin\x64\Release\Upload\WapProjTemplate1_3.5.2.0\WapProjTemplate1_3.5.2.0_x64.appxsym
+ResourcePack=C:\app\2\KillianYY\Screen Taskbar Tools\WapProjTemplate1\bin\x64\Release\Upload\WapProjTemplate1_3.5.2.0_scale-100.msix
+ResourcePack=C:\app\2\KillianYY\Screen Taskbar Tools\WapProjTemplate1\bin\x64\Release\Upload\WapProjTemplate1_3.5.2.0_scale-125.msix
+ResourcePack=C:\app\2\KillianYY\Screen Taskbar Tools\WapProjTemplate1\bin\x64\Release\Upload\WapProjTemplate1_3.5.2.0_scale-150.msix
+ResourcePack=C:\app\2\KillianYY\Screen Taskbar Tools\WapProjTemplate1\bin\x64\Release\Upload\WapProjTemplate1_3.5.2.0_scale-400.msix

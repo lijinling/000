@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Source>H:\app\FredericPP\RainbowTaskbar-main y\图标logo.png</Source>
+    <SmallTileSource>H:\app\FredericPP\RainbowTaskbar-main y\图标logo.png</SmallTileSource>
+    <MediumTileSource>H:\app\FredericPP\RainbowTaskbar-main y\图标logo.png</MediumTileSource>
+    <WideTileSource>H:\app\FredericPP\RainbowTaskbar-main y\图标logo.png</WideTileSource>
+    <LargeTileSource>H:\app\FredericPP\RainbowTaskbar-main y\图标logo.png</LargeTileSource>
+    <AppIconSource>H:\app\FredericPP\RainbowTaskbar-main y\图标logo.png</AppIconSource>
+    <SplashScreenSource>H:\app\FredericPP\RainbowTaskbar-main y\图标logo.png</SplashScreenSource>
+    <PackageLogoSource>H:\app\FredericPP\RainbowTaskbar-main y\图标logo.png</PackageLogoSource>
+    <UapAppxPackageBuildMode>StoreAndSideload</UapAppxPackageBuildMode>
+    <AppxShowAllApps>False</AppxShowAllApps>
+    <AppxBuildConfigurationSelection>x64</AppxBuildConfigurationSelection>
+    <PackageOptionalProjectsInIdeBuilds>False</PackageOptionalProjectsInIdeBuilds>
+  </PropertyGroup>
+</Project>

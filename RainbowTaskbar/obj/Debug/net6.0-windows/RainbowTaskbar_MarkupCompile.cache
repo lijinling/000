@@ -1,0 +1,20 @@
+﻿RainbowTaskbar
+2.3.0.1
+
+winexe
+C#
+.cs
+\\Mac\Home\Downloads\app\Media Converter HD\Screen Taskbar Tools\RainbowTaskbar\obj\Debug\net6.0-windows\
+RainbowTaskbar
+none
+false
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+\\Mac\Home\Downloads\app\Media Converter HD\Screen Taskbar Tools\RainbowTaskbar\App.xaml
+17-308474764
+
+47-1973645408
+220-857309367
+Editor.xaml;Languages\en_US.xaml;Languages\ja_JP.xaml;Languages\ro_RO.xaml;Taskbar.xaml;TrayWindow.xaml;UserControls\BorderRadiusInstructionControl.xaml;UserControls\ClearLayerInstructionControl.xaml;UserControls\ColorInstructionControl.xaml;UserControls\DelayInstructionControl.xaml;UserControls\ImageInstructionControl.xaml;UserControls\InstructionContextMenu.xaml;UserControls\PresetNameDialog.xaml;UserControls\ShapeInstructionControl.xaml;UserControls\TextInstructionControl.xaml;UserControls\TransparencyInstructionControl.xaml;UserControls\TrayContextMenu.xaml;
+
+False
+
